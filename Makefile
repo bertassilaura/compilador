@@ -1,4 +1,4 @@
-#Makefile
+# A versão do python utilizada foi 3.8.10
 	
 .PHONY: run clean
 setup:
