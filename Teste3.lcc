@@ -1,0 +1,112 @@
+def funcao16 ( int A )
+{
+    print ( B1 ) ;
+    menor = A1 ;
+    if ( A2 < A1 ) {
+        menor = A2 ;
+        if ( menor < A3 ) {
+            menor = A3 ;
+			            } ;
+		        } ;
+    return ;
+}
+
+def funcao17 ( int A1, int A2 )
+{
+    int A ;
+    int B ;
+    int C ;
+    int D ;
+    int E ;
+    string A1 ;
+    string A2 ;
+    string A3 ;
+    A = 4 ;
+    B = 10 ;
+    C = 8 ;
+    D = 6 ;
+    E = 3 ;
+    return ; 
+}
+
+def funcao18 ( int A, int B )
+{
+    resposta = True ;
+    resto = A % B ;
+    for ( resto = 0 ; +1 ; resto = 1 ) {
+		for ( A = 1 ; +1 ; A = 10 ) {
+        A = A / B ;
+        resto = A % B ;
+		} ;
+	} ;
+    if ( num > 1 ) {
+        resposta = False ;
+	} ;
+	print ( resposta ) ;
+    return ;   
+} 
+
+def funcao19 ( int A, int B )
+{
+    print ( A1 ) ;
+	print ( A2 ) ;
+	print ( A3 ) ;
+	resposta = A1 + A2 + A3 ; 
+	print ( resposta ) ;
+    return ;
+}
+
+def funcao20 ( int A1 , int A2 , int A3 , int B1 )
+{
+    resultado = A + 1 ;
+	limite = ( A / 2 ) + 1 ;
+	for ( i = 0 ; + 2 ; i = resultado ) {
+      if ( n % 2 == 0 ) {
+        resultado = resultado + 1 ;
+		} ;
+	} ;
+	print ( resultado ) ;
+	return ;
+}
+
+def funcao21 ( int A1, int A2, int A3 )
+{
+	print ( A1 ) ;
+	print ( A2 ) ;
+	print ( A3 ) ;
+	resposta =  ( A1 + A2 + A3 )  / 3 ;
+	print ( resposta ) ;
+    return ;
+}
+
+def funcao22 ( int A1 , int A2 , int A3 ) 
+{
+    int L1 [ 8 ] ;
+    for ( numero = 0 ; + 1 ; numero = 8 ) {
+		if ( numero > B ) {
+		soma = soma + numero ;
+		} ; 
+	} ;
+	print ( L1 ) ;
+  return ;
+}
+
+def funcao23 ( int A )
+{
+	print ( A ) ;
+	resposta = A % 2 == 0 ;
+	print ( resposta ) ;
+	return ; 
+}
+
+def funcao24 ( ) 
+{
+   A3 = A1 % A2 ;
+   for ( A3 = 30 ; -1 ; A3 = 0 ) {
+      A1 = A2 ;
+      A2 = A3 ;
+      A3 = A1 % A2 ;
+	} ;
+	print ( A3 ) ;
+    return ;
+}

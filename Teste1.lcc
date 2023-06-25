@@ -1,0 +1,100 @@
+def funcao1 ( int A , int B , int C , int D )
+{ 
+	int E ;
+	print(A) ;
+	print(B) ;
+	print(C) ;
+	print(D) ;
+	F = A + B ;
+	G = C + D ;
+	E = F + G ;
+	print(F) ;
+	print(G) ;
+	print(E) ;
+	break ;
+	return ;
+}
+
+def funcao2 ( int A , int B, int C )
+{ 
+	int SM [ 6 ] ;
+	SM [ 0 ] = A + B ;
+	print ( SM [ 0 ] ) ;
+	SM [ 1 ] = B * A ;
+	print ( SM [ 1 ] ) ;
+	SM [ 2 ] = B / A ;
+	print ( SM [ 2 ] ) ;
+	SM [ 3 ] = A / C ;
+	print ( SM [ 3 ] ) ;
+	SM [ 4 ] = A % C ;
+	print ( SM [ 4 ] ) ;
+	SM [ 5 ] = A - B ;
+	print ( SM [ 5 ] ) ;
+	SM [ 6 ] = ( A * B ) - ( C + D ) ;
+	print ( SM [ 6 ] ) ;
+	print ( SM ) ;
+	return ;
+}
+
+def funcao3 ( int A )
+{
+	for ( A = 1 ; + 1 ; A = 15 ) {
+      A = A + 5 ;
+	  	} ;
+	  	print (A) ;
+    return ;
+}
+
+def funcao4 ( int A, int B, int C )
+{
+	float N ; 
+			A = 10 ; 
+			B = 8 ;
+			N = 20 / 8 ;
+			C = 6 ; 
+		float M ;
+			M = N * C ;
+		print(M) ;
+		print (N) ;
+    return ; 
+}
+
+def funcao5 ( int A , int B , int C , int D )
+{ 
+	N = A - B ;
+	M = C - D ;
+	if ( N < M ) { 
+	N = 10 ;
+	} 
+	else { 
+	M = 20 ;
+	} ;
+	print( N ) ; 
+	print( M ) ;
+	return ;
+}
+
+def funcao6 ( int A , int B , int C , int D )
+{
+	if ((A * B) >= (C * D)) 
+	{
+		E = A * B ;
+		print(E);
+	} else
+	{
+		E = C * D ;
+		print(E);
+	} ;
+	return ;
+}
+
+def principal ( )
+{
+	A = 1 ;
+	B = 2 ;
+	C = 3 ;
+	print ( A ) ;
+	print ( B ) ;
+	print ( C ) ;
+	return ;
+}
